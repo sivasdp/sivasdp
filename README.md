@@ -1,19 +1,95 @@
-<h1 align="center">Hi 👋, I'm Sivadhandapani S</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
+Certainly! Below is a README.md template for your profile:
 
-- 🔭 I’m currently working on **LLM Based Projects**
+---
 
-- 🌱 I’m currently learning **LLM,RAG,VectorDB**
+# Sivadhandapani S - Associate Data Scientist
 
-- 👯 I’m looking to collaborate on **LLM Based Projects**
+## About Me
 
-- 💬 Ask me about **Machine Learning,Deep Learning,Data Science,MLOps,NLP**
+I am an Associate Data Scientist with a passion for leveraging machine learning and artificial intelligence to solve real-world problems. With experience in developing predictive models, conducting research in AI, and implementing innovative projects, I bring expertise in data science, machine learning, and deep learning to drive impactful solutions.
 
-- 📫 How to reach me **sivadhandapanis25@gmail.com**
+## Work Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Data Scientist Intern @ Zummit InfoLabs (March 2024 – Present)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- Developed predictive models using machine learning techniques with a maximum accuracy of 97%.
+- Collaborated with cross-functional teams to enhance CI/CD workflow, resulting in a 30% improvement in model training and deployment.
+
+### Artificial Intelligence Research Intern @ Zetpeak (August 2023 – October 2023)
+
+- Researched voice-based device control, achieving a 99% accuracy rate.
+- Spearheaded research on Undress AI and advocated for ethical considerations to the Tamil Nadu Cyber Team.
+
+### Artificial Intelligence Intern @ Mach-IT (June 2023 – August 2023)
+
+- Engineered a deep learning system for loan eligibility classification with a 96% accuracy rate.
+- Integrated MLflow for model versioning and reproducibility, leading to a 50% increase in deployment efficiency.
+
+## Projects
+
+### SKIMLIT RCT-200
+
+- Developed SkimLit, an NLP model for classifying medical research abstracts, achieving an 83% accuracy.
+- Containerized the model with Docker for easy deployment and integrated MLflow for comprehensive model tracking.
+
+### CNN Based Plant Disease Detection
+
+- Built a CNN model for plant disease detection with an accuracy of 86%.
+- Deployed the model as an interactive web application using Streamlit and GitHub for real-time disease identification.
+
+## Contact Information
+
+- 📞 +91 7603880048
+- 📧 sivadhandapanis25@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sivadhandapanis)
+
+Location: Coimbatore, Tamil Nadu, India (Open to Remote and Relocation)
+## Skills
+
+### Programming Languages
+- **Python**: Proficient in Python programming language with expertise in object-oriented programming (OOP) principles and modular programming.
+
+### Machine Learning & Data Science
+- **Machine Learning**: Strong understanding of supervised and unsupervised learning algorithms, including regression, classification, clustering, and dimensionality reduction.
+- **Data Science**: Skilled in data analysis, exploratory data analysis (EDA), data visualization, and feature engineering for deriving insights from data.
+
+### Deep Learning
+- **Deep Learning**: Proficient in artificial neural networks (ANN), convolutional neural networks (CNN), and recurrent neural networks (RNN) for tasks such as image processing and natural language processing (NLP).
+- **NLP**: Experience in natural language processing techniques such as tokenization, stemming, lemmatization, and text preprocessing.
+
+### Libraries & Tools
+- **TensorFlow**: Experience in building and deploying machine learning and deep learning models using TensorFlow.
+- **Scikit-learn**: Proficiency in utilizing Scikit-learn for machine learning tasks such as classification, regression, and clustering.
+- **NLTK**: Familiarity with the Natural Language Toolkit (NLTK) for text processing and analysis.
+
+### Development Tools
+- **Git**: Experience in version control using Git for collaborative development and project management.
+- **MLflow**: Proficient in MLflow for managing the machine learning lifecycle, including tracking experiments, packaging code, and deploying models.
+
+### Database & Storage
+- **MongoDB**: Experience working with MongoDB for storing and retrieving structured and unstructured data.
+- **MySQL**: Familiarity with MySQL for relational database management and querying.
+
+### Other Skills
+- **Streamlit**: Experience in building interactive web applications for data visualization and model deployment using Streamlit.
+- **Docker**: Knowledge of containerization principles and experience in containerizing applications for easy deployment and portability.
+
+
+## Education
+
+### B.Tech Artificial Intelligence and Machine Learning
+- Hindusthan College of Engineering and Technology
+- Expected Graduation: May 2025
+- CGPA: 8.16/10
+
+## Courses & Certifications
+
+- IBM AI Engineering Professional Certificate
+- TensorFlow Advanced Techniques Specialization
+- Machine Learning Specialization
+- MLOps Bootcamp: Mastering AI Operations for Success
+- TensorFlow Developer Certification Zero to Mastery
+
+---
+
+Feel free to customize this README.md according to your preferences and add any additional sections or information you deem necessary.
