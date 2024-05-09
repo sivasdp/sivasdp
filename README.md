@@ -2,7 +2,7 @@ Certainly! Below is a README.md template for your profile:
 
 ---
 
-# Sivadhandapani S - Associate Data Scientist
+# Sivadhandapani S - Data Science Intern (GEN AI) @Zummit InfoLabs
 
 ## About Me
 
@@ -42,8 +42,8 @@ I am an Associate Data Scientist with a passion for leveraging machine learning 
 - 📞 +91 7603880048
 - 📧 sivadhandapanis25@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/sivadhandapanis)
+-Location: Coimbatore, Tamil Nadu, India (Open to Remote and Relocation)
 
-Location: Coimbatore, Tamil Nadu, India (Open to Remote and Relocation)
 ## Skills
 
 ### Programming Languages
@@ -69,6 +69,8 @@ Location: Coimbatore, Tamil Nadu, India (Open to Remote and Relocation)
 ### Database & Storage
 - **MongoDB**: Experience working with MongoDB for storing and retrieving structured and unstructured data.
 - **MySQL**: Familiarity with MySQL for relational database management and querying.
+- - **ChromaDB**: Experience working with ChromaDB for efficient and scalable storage and retrieval of structured data.
+- **Pinecone**: Familiarity with Pinecone for building vector database systems optimized for similarity search and recommendation tasks.
 
 ### Other Skills
 - **Streamlit**: Experience in building interactive web applications for data visualization and model deployment using Streamlit.
@@ -90,6 +92,4 @@ Location: Coimbatore, Tamil Nadu, India (Open to Remote and Relocation)
 - MLOps Bootcamp: Mastering AI Operations for Success
 - TensorFlow Developer Certification Zero to Mastery
 
----
 
-Feel free to customize this README.md according to your preferences and add any additional sections or information you deem necessary.
