@@ -57,7 +57,7 @@ I am an Associate Data Scientist (GEN AI) with a passion for leveraging machine 
 ### Database & Storage
 - **MongoDB**: Experience working with MongoDB for storing and retrieving structured and unstructured data.
 - **MySQL**: Familiarity with MySQL for relational database management and querying.
-- - **ChromaDB**: Experience working with ChromaDB for efficient and scalable storage and retrieval of structured data.
+- **ChromaDB**: Experience working with ChromaDB for efficient and scalable storage and retrieval of structured data.
 - **Pinecone**: Familiarity with Pinecone for building vector database systems optimized for similarity search and recommendation tasks.
 
 ### Other Skills
