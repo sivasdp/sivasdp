@@ -1,7 +1,3 @@
-Certainly! Below is a README.md template for your profile:
-
----
-
 # Sivadhandapani S - Data Science Intern (GEN AI) @Zummit InfoLabs
 
 ## About Me
