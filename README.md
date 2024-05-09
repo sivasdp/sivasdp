@@ -25,18 +25,6 @@ I am an Associate Data Scientist (GEN AI) with a passion for leveraging machine 
 - Engineered a deep learning system for loan eligibility classification with a 96% accuracy rate.
 - Integrated MLflow for model versioning and reproducibility, leading to a 50% increase in deployment efficiency.
 
-## Projects
-
-### SKIMLIT RCT-200
-
-- Developed SkimLit, an NLP model for classifying medical research abstracts, achieving an 83% accuracy.
-- Containerized the model with Docker for easy deployment and integrated MLflow for comprehensive model tracking.
-
-### CNN Based Plant Disease Detection
-
-- Built a CNN model for plant disease detection with an accuracy of 86%.
-- Deployed the model as an interactive web application using Streamlit and GitHub for real-time disease identification.
-
 ## Contact Information
 
 - 📞 +91 7603880048
