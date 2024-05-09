@@ -6,7 +6,7 @@ Certainly! Below is a README.md template for your profile:
 
 ## About Me
 
-I am an Associate Data Scientist with a passion for leveraging machine learning and artificial intelligence to solve real-world problems. With experience in developing predictive models, conducting research in AI, and implementing innovative projects, I bring expertise in data science, machine learning, and deep learning to drive impactful solutions.
+I am an Associate Data Scientist (GEN AI) with a passion for leveraging machine learning and artificial intelligence to solve real-world problems. With experience in developing predictive models, conducting research in AI, and implementing innovative projects, I bring expertise in data science, machine learning, and deep learning to drive impactful solutions.
 
 ## Work Experience
 
