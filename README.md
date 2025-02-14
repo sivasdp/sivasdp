@@ -11,14 +11,39 @@ Deep Learning Engineer specialized in **Generative AI**, **NLP**, and **Computer
 
 ## **Skills**
 
-- **Programming:** Python (OOP)
-- **AI/ML Techniques:** Generative AI (LLM), Transfer Learning, Computer Vision, NLP
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Hugging Face, Scikit-learn, Langchain, Torchvision
-- **MLOps Tools:** MLflow, Docker, Git, CI/CD
-- **Databases:** MySQL, Chroma, FAISS, Pinecone, Neo4j
-- **Medical Imaging:** NIfTI, DICOM, MONAI, PyDICOM, 3D U-Net
-- **Cloud:** Microsoft Azure, IBM Watson
-- **Other Tools:** Langchain, Langsmith, BeautifulSoup4, Scipy
+### **Programming Languages:**
+- **Python (OOP)**
+
+### **Core AI/ML Skills:**
+- Artificial Intelligence, Machine Learning, Deep Learning  
+- Transfer Learning, Computer Vision, Natural Language Processing (NLP), MLOps, Generative AI (LLM)
+
+### **ML Frameworks:**
+- **PyTorch (Lightning)**, **TensorFlow**, **Keras**, **Scikit-learn**, **Torchvision**
+
+### **Databases & Storage:**
+- **MySQL**, **Vector Databases** (Chroma, FAISS, Pinecone), **Graph DB** (Neo4j)
+
+### **MLOps Tools:**
+- **MLflow**, **CI/CD**, **Docker**, **Git**, **DVC**
+
+### **LLM Skills:**
+- **Fine-tuning** (LoRA & QLoRA), **Prompt Engineering**, **Retrieval-Augmented Generation (RAG)**, **Agents**
+
+### **Libraries:**
+- **Langchain**, **LlamaIndex**, **Langsmith**, **Crew AI**, **Hugging Face**, **nltk**, **scipy**, **BeautifulSoup4**
+
+### **Medical Imaging Skills:**
+- **NIfTI**, **DICOM**, **ITK-Snap**, **Pydicom**, **Nibabel**, **MONAI**, **TorchIO**
+
+### **Operating Systems:**
+- **Windows**, **Linux**
+
+### **Cloud Skills:**
+- **Microsoft Azure**, **IBM Watson**, **IBM SPSS Modeller**
+
+### **Other Skills:**
+- **Data analysis**, **Data visualization**, **Exploratory data analysis (EDA)**, **Data modeling**, **Pattern recognition**, **Predictive modeling**, **Web scraping**
 
 ---
 
@@ -31,7 +56,7 @@ Deep Learning Engineer specialized in **Generative AI**, **NLP**, and **Computer
 - Created a **YOLOv8-based TB detection model** with real-time deployment capabilities.
 
 ### **Data Science Intern** | *Zummit Infolabs*  
-**April 2024 - July 2024**  
+**April 2024 - July 2024 (Part-Time)**  
 - Developed an **AI-powered interview bot** and **resume screening tool** using **LLM** and **Natural Language Processing** techniques.
 
 ### **AI Research Intern** | *Zetpeak*  
