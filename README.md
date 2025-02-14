@@ -1,79 +1,71 @@
-# Sivadhandapani S - Data Science Intern (GEN AI) @Zummit InfoLabs
+# SIVADHANDAPANI S  
+**Deep Learning Intern** @ Manentia.ai  
+Bengaluru, India | sivadhandapanis25@gmail.com | +91 7603880048 | [LinkedIn](https://www.linkedin.com/in/sivadhandapanis)
 
-## About Me
+---
 
-I am an Associate Data Scientist (GEN AI) with a passion for leveraging machine learning and artificial intelligence to solve real-world problems. With experience in developing predictive models, conducting research in AI, and implementing innovative projects, I bring expertise in data science, machine learning, and deep learning to drive impactful solutions.
+## **Summary**  
+Deep Learning Engineer specialized in **Generative AI**, **NLP**, and **Computer Vision**. Passionate about creating end-to-end AI solutions, with experience in **medical imaging**, leveraging **MLOps** tools for effective deployment and monitoring. Currently focused on building innovative AI-driven tools, particularly in the field of **medical diagnostics**.
 
-## Work Experience
+---
 
-### Data Scientist Intern @ Zummit InfoLabs (March 2024 – Present)
+## **Skills**
 
-- Developed predictive models using machine learning techniques with a maximum accuracy of 97%.
-- Collaborated with cross-functional teams to enhance CI/CD workflow, resulting in a 30% improvement in model training and deployment.
+- **Programming:** Python (OOP)
+- **AI/ML Techniques:** Generative AI (LLM), Transfer Learning, Computer Vision, NLP
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Hugging Face, Scikit-learn, Langchain, Torchvision
+- **MLOps Tools:** MLflow, Docker, Git, CI/CD
+- **Databases:** MySQL, Chroma, FAISS, Pinecone, Neo4j
+- **Medical Imaging:** NIfTI, DICOM, MONAI, PyDICOM, 3D U-Net
+- **Cloud:** Microsoft Azure, IBM Watson
+- **Other Tools:** Langchain, Langsmith, BeautifulSoup4, Scipy
 
-### Artificial Intelligence Research Intern @ Zetpeak (August 2023 – October 2023)
+---
 
-- Researched voice-based device control, achieving a 99% accuracy rate.
-- Spearheaded research on Undress AI and advocated for ethical considerations to the Tamil Nadu Cyber Team.
+## **Work Experience**
 
-### Artificial Intelligence Intern @ Mach-IT (June 2023 – August 2023)
+### **Deep Learning Intern** | *Manentia.ai*  
+**June 2024 - Present**  
+- Developed and deployed LLM-powered systems for radiology report generation, fine-tuned models like **Llama 3.1-8B** and **Mixtral-8X-7B** using **QLoRA**, improving radiology report accuracy.  
+- Integrated **OpenAI Whisper** into a **Tele Reporting system** for voice-based report writing.  
+- Created a **YOLOv8-based TB detection model** with real-time deployment capabilities.
 
-- Engineered a deep learning system for loan eligibility classification with a 96% accuracy rate.
-- Integrated MLflow for model versioning and reproducibility, leading to a 50% increase in deployment efficiency.
+### **Data Science Intern** | *Zummit Infolabs*  
+**April 2024 - July 2024**  
+- Developed an **AI-powered interview bot** and **resume screening tool** using **LLM** and **Natural Language Processing** techniques.
 
-## Contact Information
+### **AI Research Intern** | *Zetpeak*  
+**August 2023 - October 2023**  
+- Conducted research on **voice-based device control** with 95% accuracy and led the investigation into ethical concerns with **Undress AI**.
 
-- 📞 +91 7603880048
-- 📧 sivadhandapanis25@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/sivadhandapanis)
--Location: Coimbatore, Tamil Nadu, India (Open to Remote and Relocation)
+---
 
-## Skills
+## **Projects**
 
-### Programming Languages
-- **Python**: Proficient in Python programming language with expertise in object-oriented programming (OOP) principles and modular programming.
+### **Chat with MySQL Database**  
+- Built a real-time chat interface for querying MySQL databases using **Langchain** and **Mixtral LLM**.
 
-### Machine Learning & Data Science
-- **Machine Learning**: Strong understanding of supervised and unsupervised learning algorithms, including regression, classification, clustering, and dimensionality reduction.
-- **Data Science**: Skilled in data analysis, exploratory data analysis (EDA), data visualization, and feature engineering for deriving insights from data.
+### **Accident Detection System**  
+- Created a **CNN-based accident detection system** using **VGG19**, achieving 94% validation accuracy.
 
-### Deep Learning
-- **Deep Learning**: Proficient in artificial neural networks (ANN), convolutional neural networks (CNN), and recurrent neural networks (RNN) for tasks such as image processing and natural language processing (NLP).
-- **NLP**: Experience in natural language processing techniques such as tokenization, stemming, lemmatization, and text preprocessing.
+### **Multiple PDF Chatbot**  
+- Developed a **chatbot** for parsing and querying PDFs, integrating **OpenAI**, **Langchain**, and **FAISS** for efficient data retrieval.
 
-### Libraries & Tools
-- **TensorFlow**: Experience in building and deploying machine learning and deep learning models using TensorFlow.
-- **Scikit-learn**: Proficiency in utilizing Scikit-learn for machine learning tasks such as classification, regression, and clustering.
-- **NLTK**: Familiarity with the Natural Language Toolkit (NLTK) for text processing and analysis.
+---
 
-### Development Tools
-- **Git**: Experience in version control using Git for collaborative development and project management.
-- **MLflow**: Proficient in MLflow for managing the machine learning lifecycle, including tracking experiments, packaging code, and deploying models.
+## **Education**
 
-### Database & Storage
-- **MongoDB**: Experience working with MongoDB for storing and retrieving structured and unstructured data.
-- **MySQL**: Familiarity with MySQL for relational database management and querying.
-- **ChromaDB**: Experience working with ChromaDB for efficient and scalable storage and retrieval of structured data.
-- **Pinecone**: Familiarity with Pinecone for building vector database systems optimized for similarity search and recommendation tasks.
+### **B.Tech in Artificial Intelligence and Machine Learning**  
+*Hindusthan College of Engineering and Technology*  
+**Expected Graduation:** May 2025 | **CGPA:** 8.16/10
 
-### Other Skills
-- **Streamlit**: Experience in building interactive web applications for data visualization and model deployment using Streamlit.
-- **Docker**: Knowledge of containerization principles and experience in containerizing applications for easy deployment and portability.
+---
 
+## **Courses & Certifications**
 
-## Education
-
-### B.Tech Artificial Intelligence and Machine Learning
-- Hindusthan College of Engineering and Technology
-- Expected Graduation: May 2025
-- CGPA: 8.16/10
-
-## Courses & Certifications
-
-- IBM AI Engineering Professional Certificate
-- TensorFlow Advanced Techniques Specialization
-- Machine Learning Specialization
-- MLOps Bootcamp: Mastering AI Operations for Success
-- TensorFlow Developer Certification Zero to Mastery
-
-
+- **IBM AI Engineering Professional Certificate** (IBM)
+- **TensorFlow for Deep Learning Bootcamp** (Udemy)
+- **TensorFlow Advanced Techniques Specialization** (Deep Learning.ai)
+- **Machine Learning Specialization** (Deep Learning.ai)
+- **MLOps Bootcamp** (Udemy)
+- **DevOps Fundamentals** (IBM)
