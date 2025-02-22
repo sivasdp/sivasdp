@@ -51,9 +51,8 @@ Deep Learning Engineer specialized in **Generative AI**, **NLP**, and **Computer
 
 ### **Deep Learning Intern** | *Manentia.ai*  
 **June 2024 - Present**  
-- Developed and deployed LLM-powered systems for radiology report generation, fine-tuned models like **Llama 3.1-8B** and **Mixtral-8X-7B** using **QLoRA**, improving radiology report accuracy.  
-- Integrated **OpenAI Whisper** into a **Tele Reporting system** for voice-based report writing.  
-- Created a **YOLOv8-based TB detection model** with real-time deployment capabilities.
+- Developing LLM Powered Systems and 2d/3d Computer Vison model for radiology needs
+- Utilizing MLOps and LLOps tools to  streamline model deployment, monitoring, and maintenance.
 
 ### **Data Science Intern** | *Zummit Infolabs*  
 **April 2024 - July 2024 (Part-Time)**  
